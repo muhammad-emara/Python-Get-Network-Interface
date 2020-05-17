@@ -1,0 +1,40 @@
+interface GigabitEthernet3/11
+ description GESS-Juniper-FW
+ switchport
+ switchport trunk encapsulation dot1q
+ switchport trunk allowed vlan 1-5,7-15,17,19-21,23-25,27,29-34,36-42,44-48
+ switchport trunk allowed vlan add 50-70,72-78,80-101,103,105-121,123-129
+ switchport trunk allowed vlan add 131-169,172,175-178,180-184,186,188-204,206
+ switchport trunk allowed vlan add 208,210-799,801,802,805-860,862-922,924-948
+ switchport trunk allowed vlan add 950-999,1002-4094
+ switchport mode trunk
+ load-interval 30
+ wrr-queue bandwidth 40 60 10 
+ priority-queue queue-limit 30 
+ wrr-queue queue-limit 15 15 40 
+ wrr-queue threshold 2 20 100 100 100 100 100 100 100 
+ wrr-queue random-detect min-threshold 1 40 70 100 100 100 100 100 100 
+ wrr-queue random-detect min-threshold 3 40 70 100 100 100 100 100 100 
+ wrr-queue random-detect max-threshold 3 70 100 100 100 100 100 100 100 
+ no wrr-queue random-detect 2 
+ wrr-queue cos-map 1 1 2 
+ wrr-queue cos-map 1 2 3 
+ wrr-queue cos-map 2 1 4 
+ wrr-queue cos-map 3 1 0 
+ wrr-queue cos-map 3 2 1 
+ priority-queue cos-map 1 5 6 7 
+ mls qos trust dscp
+ 
+ 
+ interface GigabitEthernet3/2
+ description bds-Juniper-FW111111
+ switchport
+ switchport trunk encapsulation dot1q
+ switchport trunk allowed vlan 1-5,7-15,17,19-21,23-25,27,29-34,36-42,44-48
+ switchport trunk allowed vlan add 50-70,72-78,80-101,103,105-121,123-129
+ switchport trunk allowed vlan add 130-170,172,175-178,180-184,186,188-204,206,1000-1002
+ switchport trunk allowed vlan add 208,210-799,801,802,805-860,862-922,924-948
+ switchport trunk allowed vlan add 950-999,1002-4094
+ switchport mode trunk
+ 
+ 
