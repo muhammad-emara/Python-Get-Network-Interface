@@ -1,0 +1,965 @@
+﻿AC-DOZ-POP-C76K-1#sho
+AC-DOZ-POP-C76K-1#ter  
+AC-DOZ-POP-C76K-1#terminal le
+AC-DOZ-POP-C76K-1#terminal length 0
+AC-DOZ-POP-C76K-1#sho
+AC-DOZ-POP-C76K-1#show inte
+AC-DOZ-POP-C76K-1#show interfaces des
+AC-DOZ-POP-C76K-1#show interfaces description 
+Interface                      Status         Protocol Description
+Gi1/1                          up             up       IPSLA-DXB-AC-OOB-C2K9-1
+Gi1/1.4000                     up             up       IPSLA-Internet with IGWs
+Gi1/1.4001                     up             up       IPSLA-GRT with SDP 
+Gi1/1.4002                     up             up       IPSLA-BVSM
+Gi1/1.4003                     up             up       IPSLA-FNL-AP Mgmt
+Gi1/1.4004                     up             up       IPSLA-FNL-AP Voice
+Gi1/2                          admin down     down     
+Gi1/3                          down           down     
+Gi1/4                          admin down     down     
+Gi1/5                          admin down     down     
+Gi1/5.900                      admin down     down     
+Gi1/6                          admin down     down     
+Gi1/7                          admin down     down     
+Gi1/8                          admin down     down     
+Gi1/9                          admin down     down     
+Gi1/10                         down           down     
+Gi1/11                         down           down     
+Gi1/12                         down           down     
+Gi1/13                         down           down     
+Gi1/14                         down           down     
+Gi1/15                         down           down     
+Gi1/16                         admin down     down     
+Gi1/17                         admin down     down     
+Gi1/18                         admin down     down     
+Gi1/19                         admin down     down     
+Gi1/20                         admin down     down     IM249254-Hamdan-Test
+Gi1/21                         admin down     down     
+Gi1/22                         admin down     down     
+Gi1/23                         admin down     down     
+Gi1/24                         admin down     down     
+Gi1/25                         admin down     down     
+Gi1/26                         admin down     down     
+Gi1/27                         admin down     down     
+Gi1/28                         admin down     down     
+Gi1/29                         admin down     down     
+Gi1/30                         down           down     
+Gi1/31                         admin down     down     
+Gi1/32                         admin down     down     
+Gi1/33                         admin down     down     
+Gi1/34                         admin down     down     
+Gi1/35                         admin down     down     
+Gi1/36                         admin down     down     
+Gi1/37                         admin down     down     
+Gi1/38                         admin down     down     
+Gi1/39                         admin down     down     
+Gi1/40                         admin down     down     
+Gi1/40.2                       admin down     down     
+Gi1/41                         admin down     down     
+Gi1/42                         down           down     Thuraya to AC- Emmar NOC MGMT
+Gi1/43                         admin down     down     CrossCable BA-C4K-BDS-1 6/30
+Gi1/44                         admin down     down     
+Gi1/45                         admin down     down     
+Gi1/46                         admin down     down     
+Gi1/47                         up             up       OTN-ONM-GNE
+Gi1/48                         up             up       Jumeira-DOZ-L2MPLS towards BDS DOZ24-BA-C4K-BDS-1---6/37
+Gi2/1                          admin down     down     
+Gi2/2                          down           down     Shut_CR_202521
+Gi2/3                          admin down     down     L2MPLS-1552-DOZ24-BA-C4K-BDS-1
+Gi2/4                          admin down     down     
+Gi2/5                          admin down     down     CrossCable DOZ24-BA-C4K-BDS-1 Gi4/5
+Gi2/6                          admin down     down     
+Gi2/7                          admin down     down     
+Gi2/8                          admin down     down     
+Gi2/9                          admin down     down     
+Gi2/10                         admin down     down     
+Gi2/11                         admin down     down     
+Gi2/12                         admin down     down     
+Gi2/13                         admin down     down     
+Gi2/14                         admin down     down     
+Gi2/15                         admin down     down     
+Gi2/16                         admin down     down     
+Gi2/17                         up             up       
+Gi2/17.153                     admin down     down     DCN MPLS L2 from AC-SDH-RT-C2911 Ge1/1.2 to DIC4-SDH-RT-C2911 Ge0/1.1
+Gi2/17.155                     admin down     down     DCN MPLS L2 from AC-SDH-RT-C2911 Ge1/1.1 to TC1B-SDH-RT-C2911 Ge0/1.2
+Gi2/17.157                     up             up       Connected to ONM on RT_acdmcty
+Gi2/17.377                     up             up       OTN-ONM-GNE
+Gi2/18                         admin down     down     
+Gi2/19                         admin down     down     
+Gi2/20                         admin down     down     
+Gi2/21                         admin down     down     
+Gi2/22                         admin down     down     
+Gi2/23                         admin down     down     
+Gi2/24                         admin down     down     
+Gi3/1                          admin down     down     
+Gi3/2                          admin down     down     
+Gi3/3                          admin down     down     
+Gi3/4                          admin down     down     
+Gi3/4.742                      admin down     down     
+Gi3/5                          admin down     down     
+Gi3/6                          admin down     down     *****Uplink to AC-Phase3-Bsmt-BDS-1*****
+Gi3/6.12                       deleted        down     
+Gi3/6.19                       deleted        down     
+Gi3/6.22                       deleted        down     
+Gi3/6.32                       deleted        down     
+Gi3/6.33                       deleted        down     
+Gi3/6.36                       deleted        down     
+Gi3/6.37                       deleted        down     
+Gi3/6.39                       deleted        down     
+Gi3/6.40                       deleted        down     
+Gi3/6.41                       deleted        down     
+Gi3/6.45                       deleted        down     
+Gi3/6.47                       deleted        down     
+Gi3/6.73                       deleted        down     
+Gi3/6.80                       deleted        down     
+Gi3/6.87                       deleted        down     
+Gi3/6.89                       deleted        down     
+Gi3/6.91                       deleted        down     
+Gi3/6.94                       deleted        down     
+Gi3/6.96                       deleted        down     
+Gi3/6.98                       deleted        down     
+Gi3/6.99                       deleted        down     
+Gi3/6.111                      deleted        down     
+Gi3/6.112                      deleted        down     
+Gi3/6.113                      deleted        down     
+Gi3/6.125                      deleted        down     
+Gi3/6.126                      deleted        down     
+Gi3/6.142                      deleted        down     
+Gi3/6.143                      deleted        down     
+Gi3/6.145                      deleted        down     
+Gi3/6.160                      deleted        down     
+Gi3/6.161                      deleted        down     
+Gi3/6.162                      deleted        down     
+Gi3/6.199                      deleted        down     
+Gi3/6.200                      deleted        down     
+Gi3/6.298                      deleted        down     
+Gi3/6.300                      deleted        down     
+Gi3/6.316                      deleted        down     
+Gi3/6.320                      deleted        down     
+Gi3/6.322                      deleted        down     
+Gi3/6.327                      deleted        down     
+Gi3/6.339                      deleted        down     
+Gi3/6.365                      deleted        down     
+Gi3/6.399                      deleted        down     
+Gi3/6.405                      deleted        down     
+Gi3/6.409                      deleted        down     
+Gi3/6.454                      deleted        down     
+Gi3/6.459                      deleted        down     
+Gi3/6.487                      deleted        down     
+Gi3/6.490                      deleted        down     
+Gi3/6.502                      deleted        down     
+Gi3/6.503                      deleted        down     
+Gi3/6.504                      deleted        down     
+Gi3/6.505                      deleted        down     
+Gi3/6.506                      deleted        down     
+Gi3/6.508                      deleted        down     
+Gi3/6.515                      deleted        down     
+Gi3/6.520                      deleted        down     
+Gi3/6.530                      deleted        down     
+Gi3/6.546                      deleted        down     
+Gi3/6.550                      deleted        down     
+Gi3/6.559                      deleted        down     
+Gi3/6.563                      deleted        down     
+Gi3/6.567                      deleted        down     
+Gi3/6.578                      deleted        down     
+Gi3/6.579                      deleted        down     
+Gi3/6.582                      deleted        down     
+Gi3/6.584                      deleted        down     
+Gi3/6.588                      deleted        down     
+Gi3/6.590                      deleted        down     
+Gi3/6.591                      deleted        down     
+Gi3/6.592                      deleted        down     
+Gi3/6.593                      deleted        down     
+Gi3/6.594                      deleted        down     
+Gi3/6.595                      deleted        down     
+Gi3/6.603                      deleted        down     
+Gi3/6.604                      deleted        down     
+Gi3/6.609                      deleted        down     
+Gi3/6.616                      deleted        down     
+Gi3/6.626                      deleted        down     
+Gi3/6.637                      deleted        down     
+Gi3/6.638                      deleted        down     
+Gi3/6.654                      deleted        down     
+Gi3/6.660                      deleted        down     
+Gi3/6.661                      deleted        down     
+Gi3/6.666                      deleted        down     
+Gi3/6.670                      deleted        down     
+Gi3/6.675                      deleted        down     
+Gi3/6.677                      deleted        down     
+Gi3/6.682                      deleted        down     
+Gi3/6.688                      deleted        down     
+Gi3/6.694                      deleted        down     
+Gi3/6.705                      deleted        down     
+Gi3/6.713                      deleted        down     
+Gi3/6.715                      deleted        down     
+Gi3/6.716                      deleted        down     
+Gi3/6.717                      deleted        down     
+Gi3/6.718                      deleted        down     
+Gi3/6.719                      deleted        down     
+Gi3/6.725                      deleted        down     
+Gi3/6.726                      deleted        down     
+Gi3/6.727                      deleted        down     
+Gi3/6.728                      deleted        down     
+Gi3/6.735                      deleted        down     
+Gi3/6.739                      deleted        down     
+Gi3/6.749                      deleted        down     
+Gi3/6.762                      deleted        down     
+Gi3/6.769                      deleted        down     
+Gi3/6.783                      deleted        down     
+Gi3/6.784                      deleted        down     
+Gi3/6.785                      deleted        down     
+Gi3/6.788                      deleted        down     
+Gi3/6.793                      deleted        down     
+Gi3/6.794                      deleted        down     
+Gi3/6.795                      deleted        down     
+Gi3/6.799                      deleted        down     
+Gi3/6.812                      deleted        down     
+Gi3/6.822                      deleted        down     
+Gi3/6.823                      deleted        down     
+Gi3/6.830                      deleted        down     
+Gi3/6.831                      deleted        down     
+Gi3/6.834                      deleted        down     
+Gi3/6.835                      deleted        down     
+Gi3/6.841                      deleted        down     
+Gi3/6.843                      deleted        down     
+Gi3/6.850                      deleted        down     
+Gi3/6.852                      deleted        down     
+Gi3/6.855                      deleted        down     
+Gi3/6.862                      deleted        down     
+Gi3/6.863                      deleted        down     
+Gi3/6.864                      deleted        down     
+Gi3/6.865                      deleted        down     
+Gi3/6.867                      deleted        down     
+Gi3/6.868                      deleted        down     
+Gi3/6.878                      deleted        down     
+Gi3/6.879                      deleted        down     
+Gi3/6.888                      deleted        down     
+Gi3/6.890                      deleted        down     
+Gi3/6.891                      deleted        down     
+Gi3/6.893                      deleted        down     
+Gi3/6.899                      deleted        down     
+Gi3/6.900                      deleted        down     
+Gi3/6.914                      deleted        down     
+Gi3/6.923                      deleted        down     
+Gi3/6.925                      deleted        down     
+Gi3/6.930                      deleted        down     
+Gi3/6.945                      deleted        down     
+Gi3/6.950                      deleted        down     
+Gi3/6.955                      deleted        down     
+Gi3/6.956                      deleted        down     
+Gi3/6.957                      deleted        down     
+Gi3/6.958                      deleted        down     
+Gi3/6.993                      deleted        down     
+Gi3/6.995                      deleted        down     
+Gi3/6.998                      deleted        down     
+Gi3/6.999                      deleted        down     
+Gi3/6.1205                     deleted        down     
+Gi3/6.1249                     deleted        down     
+Gi3/6.1250                     deleted        down     
+Gi3/6.1252                     deleted        down     
+Gi3/6.1255                     deleted        down     
+Gi3/6.1299                     deleted        down     
+Gi3/6.1301                     deleted        down     
+Gi3/6.1302                     deleted        down     
+Gi3/6.1313                     deleted        down     
+Gi3/6.1348                     admin down     down     AC-Phase3-Bsmt-BDS-1-IPTV-AP-Test
+Gi3/6.1349                     deleted        down     
+Gi3/6.1350                     deleted        down     
+Gi3/6.1398                     deleted        down     
+Gi3/6.1399                     deleted        down     
+Gi3/6.1400                     deleted        down     
+Gi3/6.1706                     deleted        down     
+Gi3/6.3075                     deleted        down     
+Gi3/6.3303                     deleted        down     
+Gi3/6.3432                     deleted        down     
+Gi3/6.3601                     deleted        down     
+Gi3/6.3602                     deleted        down     
+Gi3/6.3998                     deleted        down     
+Gi3/6.3999                     deleted        down     
+Gi3/6.9456                     deleted        down     
+Gi3/7                          admin down     down     
+Gi3/8                          up             up       *****UPLINK to AC-AlGhurair-ABR1-BDS-1 **********
+Gi3/8.23                       up             up       ***** Uplink to AC-AlGhurair-ABR1-BDS-1 ***** 
+Gi3/8.139                      up             up       L3-DXB-0329-IBS-SAR-M-1-PE1
+Gi3/8.817                      up             up       5.44075-EITC-L3-AlGhurair-BMS
+Gi3/8.848                      up             up       854-EITC-EKM-ACNTRL-B7-L3-MPLS-SITE-ID-0044
+Gi3/8.975                      up             up       AlGhurair-BVSM-Cluster-1-Primary
+Gi3/8.976                      up             up       AlGhurair-BVSM-Cluster-2
+Gi3/8.977                      up             up       AlGhurair-BVSM-Cluster-3
+Gi3/8.978                      up             up       AlGhurair-BVSM-Cluster-4
+Gi3/8.1201                     up             up       BS-AP-AC-AlGhurair-ABR1-BDS-1-Mgmt
+Gi3/8.1251                     up             up       BS- AP-AC-AlGhurair-ABR1-BDS-1-Voice
+Gi3/8.1252                     deleted        down     
+Gi3/8.1253                     up             up       
+Gi3/8.1351                     up             up       **DMTC-BNG-1**
+Gi3/8.1365                     up             up       AC-AlGhurair-ABR1-BDS-1&2-MS-CPE-MGMT
+Gi3/8.1701                     up             up       **DMTC-BNG-1**
+Gi3/9                          admin down     down     
+Gi3/10                         admin down     down     **reserved interface for OuAlMateena Project**
+Gi3/11                         down           down     DOZ-Juniper-FW 
+Gi3/12                         admin down     down     
+Gi3/13                         down           down     
+Gi3/14                         admin down     down     To GV-POP-MAR-C10K7-4
+Gi3/15                         admin down     down     
+Gi3/16                         admin down     down     
+Gi3/17                         admin down     down     
+Gi3/18                         admin down     down     
+Gi3/19                         admin down     down     
+Gi3/20                         admin down     down     
+Gi3/21                         admin down     down     
+Gi3/22                         admin down     down     
+Gi3/23                         down           down     *** du NETWORK_PROBE_MGT ***
+Gi3/24                         down           down     reserved for BV3000-data
+Gi3/24.4087                    admin down     down     *** du NETWORK_PROBE_GRT ***
+Gi3/24.4088                    admin down     down     *** du NETWORK_PROBE_INTERNET ***
+Gi3/24.4089                    admin down     down     *** du NETWORK_PROBE_BVSM_VOICE ***
+Te4/1                          up             up       connection to AC-DOZ24-ME49-BDS-1A
+Te4/1.883                      deleted        down     
+Te4/2                          up             up       connection to DXB-FC-POP-ME49-BDS-2A
+Te4/3                          up             up       connection to DXB-OudMuteena-ME49-BDS1A
+Te4/4                          up             up       *****Uplink to AC-Phase3-Bsmt-BDS-1*****
+Te4/5                          down           down     connection to DIAC-5-Lab-Huawei-s93k-BDS-1A
+Te4/6                          up             up       *****Uplink to DXB-FC-POP-ME49-BDS-1A*****
+Te4/7                          admin down     down     Uplink to DOZ24-BA-BDS-1A
+Te4/8                          admin down     down     Uplink to The Villa BDS-1
+Gi5/1                          admin down     down     
+Gi5/2                          up             up       B2B L2_Trunk_to_IAC-DOZ-POP-C76K-2
+Te7/0/0                        admin down     down     
+Te7/0/1                        up             up       B2B L3_Connection to AC-DOZ-POP-C76K-2
+Te7/0/1.2800                   up             up       Connection to AC-DOZ-POP-C76K-2
+Te7/0/1.2801                   up             up       
+Te7/0/1.2802                   up             up       
+Te7/0/1.2803                   up             up       
+Te7/0/1.2804                   up             up       L3-BTWN-ACDOZ-POP-DOM-MallBld-ABR1
+Te7/0/1.2805                   up             up       L3-BTWN- AC-AlGhurair-ABR1-BDS-1&2
+Te7/0/1.2806                   up             up       L3-BTWN- AC-DOZ22-23-B7-BDS-1&2
+Te7/0/1.2807                   up             up       L3-BTWN- AC-DOZ22-23-B7-BDS-1&2
+Te7/0/1.2808                   up             up       L3-BTWN- AC-Bld5-C4K-BDS-1&2
+Te7/0/1.2809                   up             up       L3-BTWN- AC-Phase3-Bsmt-BDS-1&2
+Te7/0/1.2810                   up             up       L3-BTWN-AC-POP-C4K-BDS-1&2
+Te8/0/0                        up             up       DXB-KAZ-CORE-ASR9922-1 Te0/9/0/2 Via OTN 11500341 to DBT Island
+Te8/0/1                        up             up       B2B L3_Connection to AC-DOZ-POP-C76K-2
+Te9/1                          up             up       ******UPLINK to DOZ24-BA-C4K-BDS-1***********
+Te9/2                          up             up       ****UPLINK to AC-POP-C4K-BDS-1 *********
+Te9/2.4                        up             up       ***** Uplink to KV-AC-POP-C4K-BDS-1 ***** 
+Te9/2.7                        admin down     down     ***** Uplink to KV-AC-POP-C4K-BDS-1 ***** 
+Te9/2.13                       admin down     down     ***** Uplink to KV-AC-POP-C4K-BDS-1 *****
+Te9/2.106                      up             up       L3-DXB-2595-IBS-SAR-M-1-PE1
+Te9/2.137                      up             up       L3-DXB-0503-IBS-SAR-M-1-PE1
+Te9/2.176                      up             up       L3-DXB-1470-IBS-SAR-M-1-PE1
+Te9/2.200                      deleted        down     
+Te9/2.313                      up             up       CID5.54203.11.00.100000-ENOC-SiteID-5596-WO-1-108327082347-CONTR0073185813-L3MPLS
+Te9/2.318                      up             up       
+Te9/2.391                      up             up       CID5.92062.11.00.100000-MINISTRYOFHEALTH-CONTR0069787833-MSVPN
+Te9/2.428                      up             up       L2-MPLS-EMAAR-Boulevard-WiFi-HotSpot-6
+Te9/2.485                      up             up       **DMTC-BNG-1"
+Te9/2.556                      up             up       
+Te9/2.715                      deleted        down     
+Te9/2.737                      up             up       CID5.42864.Diac-DubaiInternationalAcademic-CONTR0043445220-L3-MPLS
+Te9/2.746                      up             up       CID5.44075.00.00.100002-Eitc - Du-WO#1-16294094647-CONTR0045256242-WiFiMGMTHub
+Te9/2.752                      up             up       5.44075.00-Eitc-CCTV-AC-Spoke
+Te9/2.807                      up             up       *** du NETWORK_PROBE_MGT for AC-POP-C4K-BDS-1 ***
+Te9/2.833                      up             up       CID6.109526.00.00.100043-Eitc-WiFi-DIAC-OutdoorArea2-WO-1-33556466082-CONTR0052755197-L3MPLS
+Te9/2.846                      up             up       854-EITC-EKM-AControl-L3-MPLS-SITE-ID-0042
+Te9/2.863                      up             up       AC-POP-C4K-BDS-MS-CPE-MGMT
+Te9/2.897                      up             up       5.44075-EITC-AC-POP-C4K-BDS-BMS
+Te9/2.899                      deleted        down     
+Te9/2.963                      up             up       AC-BDS-BVSM-Cluster-1-Primary
+Te9/2.964                      up             up       AC-BDS-BVSM-Cluster-2
+Te9/2.965                      up             up       AC-BDS-BVSM-Cluster-3
+Te9/2.966                      up             up       AC-BDS-BVSM-Cluster-4
+Te9/2.975                      up             up       
+Te9/2.1200                     deleted        down     
+Te9/2.1207                     up             up       Connects to BS-AS-AC-POP-C4K-BDS-1-Mgmt
+Te9/2.1257                     up             up       Connects to BS-AS-AC-POP-C4K-BDS-1-Voice
+Te9/2.1284                     up             up       DOZ24-BA-C4K-ENOC-5596-MS-CPE-MGMT
+Te9/2.1357                     up             up       **DMTC-BNG-1**
+Te9/2.1707                     up             up       **DMTC-BNG-1**
+Te9/2.2193                     up             up       To L2-DBT-BNG-1
+Te9/2.2407                     up             up       60029679-Cs-orange-merck-L2-WO#913190
+Te9/2.2413                     up             up       1.19325517-TELIASONERA-Orange-L2MPLS(WO#1-8316299466)
+Te9/2.3204                     deleted        down     
+Te9/3                          up             up       ****UPLINK to DOM-MallBld-ABR1-BDS-1 ***********
+Te9/4                          down           down     "HP Server to AC-DOZ-POP-C76K-1 (10.100.53.1) for VVIP" 
+Te9/5                          up             up       ********UPLINK to AC-Bld5-C4K-BDS-1**********
+Te9/5.11                       up             up       ***** Uplink to KV-ACPH2-POP-C4K-BDS-1 *****
+Te9/5.98                       deleted        down     
+Te9/5.160                      up             up       GPON_FNL_LAB_IPTV
+Te9/5.212                      up             up       Mobile-HuawIBS-IDX0802
+Te9/5.260                      up             up       CID6.109526.00.00.100130-DAC9Eitc-Test-WO#1-87379395980-CONTR0071906528-MS-Ebgp
+Te9/5.261                      up             up       6.109526-DAC9Eitc-MS2-Ebgp
+Te9/5.262                      up             up       CID6.109526.00.00.100130-DAC9Eitc-Test-WO#1-87379151092-CONTR0071906689-MS-Ebgp
+Te9/5.263                      up             up       
+Te9/5.310                      deleted        down     
+Te9/5.311                      up             up       6.109526.00.00.100130-COSTCENTER-WO-1-156257697811-CONTR0073490364-L3-MPLS
+Te9/5.314                      up             up       ITSD-DAC8-HIPCC-Voice
+Te9/5.321                      up             up       Hospitality-DAC-Bldg8
+Te9/5.323                      up             up       Tandberg-MPLS-DAC08
+Te9/5.330                      up             up       5.44075-Eitc-LTE-ACCESS-IDXL5960
+Te9/5.331                      up             up       5.44075-Eitc-LTE-ACCESS-IDXL5802
+Te9/5.366                      up             up       IT-O&M-DAC08
+Te9/5.406                      up             up       5.44075-DU-CC-DAC8-AgentDesktop-Floor1 
+Te9/5.407                      up             up       5.44075-DU-CC-AgentDesktop-Floor2 
+Te9/5.408                      up             up       5.44075-du-HIPCC-DAC8-1F-Voice
+Te9/5.410                      up             up       5.44075-DU2F-DAC8-HIPCC-Voice
+Te9/5.428                      deleted        down     
+Te9/5.480                      deleted        down     
+Te9/5.510                      up             up       HHTheRulersCourt-AC-DIC4-L2-MPLS
+Te9/5.523                      up             up       AC-Bld5-BDS-Corp-User-Wired-HUB
+Te9/5.524                      up             up       AC-Bld5-BDS-Corp-User-Wireless-HUB
+Te9/5.551                      up             up       60004963-Knowledge Village (KV) (TECOM)-L2-MPLS
+Te9/5.568                      up             up       PWiFi_SIT_TB_DAC08
+Te9/5.602                      up             up       5.44075-Eitc-LTE-ACCESSDXB0177
+Te9/5.610                      deleted        down     
+Te9/5.617                      up             up       854-Mobile-Huawei-IBS-DAC08-Spoke
+Te9/5.623                      up             up       6.109526.00-Eitc-Test-WO#1-49606225089-CONTR0060168263-PE-MS-L2MPLS-DAC
+Te9/5.635                      up             up       854-EITC-HRCallCenter-HIPCC-Voice
+Te9/5.644                      up             up       6.109526.00-Eitc-WO#1-59529902367-CONTR0062934390-MS-L2MPLS-KV_DAC
+Te9/5.668                      up             up       5.44075-Eitc-PWiF-DAC8-DATA
+Te9/5.669                      up             up       5.44075-Eitc-PWiF-SIT-TB-DAC8
+Te9/5.673                      up             up       Du-CCTV-Spoke_3 -DIAC8
+Te9/5.689                      up             up       CIDCID6.109526.00.00.100130-Eitc-du-New-WO-1-89647155180-CONTR0072565543-INJMGMNT-MSCPE1
+Te9/5.698                      up             up       5.44075.00-Eitc-Du-Polycom-DAC8-MPLS
+Te9/5.701                      up             up       60004963-Knowledge Village (KV) (TECOM)-L2-MPLS
+Te9/5.715                      up             up       CID5.29151.00.00.100000-IdamaFacility-WO-1-57246660083-CONTR0015006964-L3MPLS
+Te9/5.723                      up             up       HIPCC-MGMT-DATA-DAC8
+Te9/5.738                      up             up       Customer-HIPCC-SIT-LAB-BLD8
+Te9/5.750                      deleted        down     
+Te9/5.753                      up             up       CID6.109526.10.10.100000-Eitc-du-New-1-23411690954-CONTR0048922449-WiFi-AC-Bld8-MGT
+Te9/5.761                      up             up       Hospitality-DAC-Bldg8
+Te9/5.763                      up             up       WiFi-du-Guest
+Te9/5.764                      up             up       5.44075.00-EITC-DAC8-LAB-MPLS(Wo#1-7645352548)
+Te9/5.768                      deleted        down     
+Te9/5.785                      up             up       5.44075.00-WiFi-CONTL-eWAG_Data
+Te9/5.786                      up             up       CID6.109526.00.00.100130-Dummy-L3VPN-WO-1-50478502241-CONTR0060309895-MS-L3MPLS
+Te9/5.793                      up             up       WiFi-CORE-MGMNT-MPLS
+Te9/5.814                      up             up       5.44075-EITC-AC-PH2-BMS
+Te9/5.829                      up             up       854-EKM-L3-MPLS-AC-Bld5-C4K
+Te9/5.832                      up             up       5.44075-EKMS-DAC8-MPLS-1-23052873788
+Te9/5.836                      up             up       CID6.109526.00.00.100043-Eitc-WiFi-DIAC-OutdoorArea-WO-1-33556466082-CONTR0052755248-L3MPLS
+Te9/5.861                      up             up       AC-Bld5-C4K-BDS-MS-CPE-MGMT
+Te9/5.912                      up             up       5.28946-DubaiEGov-L2MPLS-L1(KHDA)
+Te9/5.913                      up             up       connection to DAC9-PHASE3
+Te9/5.924                      up             up       854-Eitc-Du-PPP-IPTV(Dac-8)-MVPN
+Te9/5.931                      up             up       HCS-duCorp-Cluster-DAC8
+Te9/5.951                      up             up       BVS-AC-Bld5-C4K-BDS-CLUSTER1-Pri
+Te9/5.952                      up             up       BVS-AC-Bld5-C4K-BDS-CLUSTER2-Sec
+Te9/5.953                      up             up       BVS-AC-Bld5-C4K-BDS-CLUSTER3-Sec
+Te9/5.954                      up             up       BVS-AC-Bld5-C4K-BDS-CLUSTER4-Sec
+Te9/5.994                      up             up       854-EITC-L2-IPTV-DIC2-DAC-L2-MPLS(WO#1-7336640036)
+Te9/5.1150                     admin down     down     6.109526.00-Eitc-PE-L2MPLS-MS-DAC
+Te9/5.1151                     up             up       6.109526.00-Eitc-PE-L2MPLS-MS-DAC
+Te9/5.1201                     deleted        down     
+Te9/5.1202                     deleted        down     
+Te9/5.1222                     up             up       BS-AP-AC-DOZ22-23-B7-BDS-1-Mgmt
+Te9/5.1272                     up             up       BS- AP-AC-DOZ22-23-B7-BDS-1-Voice
+Te9/5.1318                     up             up       CID6.109526.00.00.100043 -Eitc-du-New-WO-1-77744740575-CONTR0068583651-WifiMangmt-L3MPLS
+Te9/5.1348                     up             up       AC-Bld5-C4K-BDS-1-IPTV-AP-Test
+Te9/5.1372                     up             up       **DMTC-BNG-1**
+Te9/5.1702                     up             up       **DMTC-BNG-1**
+Te9/6                          up             up       *****UPLINK to AC-DOZ22-23-B7-BDS-1 **************
+Te9/7                          admin down     down     
+Te9/8                          admin down     down     Reserved for FC huawei BDS
+Lo0                            up             up       
+Lo1                            up             up       ****Bgp IPV4****
+Lo5                            up             up       
+Lo6                            up             up       
+Lo101                          up             up       **OSPF PROCESS 101-ALU**
+Tu0                            up             up       
+Tu1                            up             down     
+Tu2                            up             up       
+Tu3                            up             up       
+Tu4                            up             up       
+Tu5                            up             up       
+Tu6                            up             up       
+Tu7                            up             up       
+Tu8                            up             up       
+Vl1                            admin down     down     
+Vl5                            up             up       DOZ24-BA-C4K-BDS-1
+Vl12                           up             up       LAB-BRAS-TES-Free-Radius
+Vl15                           up             up       ***** Uplink to AC-DOZ22-23-B7-BDS-1 ***** 
+Vl17                           up             up       L3Between AC-DOZ-POP-C76K-1and DXB-FC-POP-ME49-BDS-1A
+Vl19                           up             up       *****L3 Link to AC-Phase3-Bsmt-BDS-1*****
+Vl21                           up             up       DOM-MallBld-ABR1-BDS-1
+Vl22                           up             up       
+Vl25                           up             up       L3Between DXB-Mirdif-POP-C7K-1 & DXB-OudMuteena-ME49-BDS1A
+Vl27                           admin down     down     L3Between7609-1_and_Dxb-AC-Shiba-Bld3-ME49-BDS-1A
+Vl29                           up             up       Global-Routing-VLAN
+Vl30                           up             up       IPTV-MVPN
+Vl31                           up             up       DIC4-DOZ24
+Vl32                           up             up       DIC-MGMT-L2-DIC4-DOZ
+Vl33                           up             up       IPTV-MGMT-L2-DIC4-DOZ
+Vl34                           up             up       L3Between7609-1and AC-DOZ24-ME49-BDS-1A
+Vl36                           up             up       **DMTC-BNG-1**
+Vl37                           up             up       BRAS-L2-AR24-AC1-WO714130
+Vl39                           up             up       Etisalat-BS-Voice
+Vl40                           up             up       Etisalat-BS-Video
+Vl41                           up             up       Etisalat-BS-Mgmt
+Vl42                           up             up       L3Between7609-1_and_DXB-FC-POP-ME49-BDS-2A
+Vl45                           up             up       DIAC-Lab-IPTV-MVPN
+Vl47                           up             up       EnodeB Terminal PC 
+Vl48                           down           down     L3Between DOZ-AC-POP-C7K6-1 and Lab-Huawei-s93k-BDS-1A
+Vl50                           up             up       EITC-MPLS
+Vl51                           up             up       DOZ-du-HIPCC-Data
+Vl56                           up             up       EITC-OAM-CUOM-OSS
+Vl62                           up             up       L3-DXB-0134-IBS-SAR-M-1
+Vl65                           up             up       L3-Area-101-Closing-PE1-PE2
+Vl67                           up             up       L3-DXB-0055-IBS-SAR-M-1-PE1
+Vl70                           down           down     L3Between DOZ-AC-POP-C7K6-1 and Lab-Cisco-Me49-BDS-1A
+Vl73                           up             up       
+Vl74                           up             up       L3-DXB-0075-IBS-SAR-M-1-PE1
+Vl76                           up             up       L3-DXB-2454-IBS-SAR-M-1-PE1
+Vl78                           up             up       L3-DXB-1601-IBS-SAR-M-1-PE1
+Vl80                           up             up       Block-9-EITC-OAM-CUOM-OSS
+Vl82                           up             up       L3-DXB-1626-IBS-SAR-M-1-PE1
+Vl87                           up             up       Wimax-Trail-Inet  
+Vl89                           up             up       WiMaxProject-Voice 
+Vl91                           up             up       
+Vl93                           admin down     down     
+Vl94                           up             up       Third Internet Island test
+Vl96                           up             up       Wi-Fi over CGN test
+Vl98                           up             up       Nabil-Lab-L2MPLS-DOZ-DIC4
+Vl99                           up             up       
+Vl101                          up             up       L3-DXB-0691-IBS-SAR-M-1-PE1
+Vl103                          up             up       L3-DXB-0675-IBS-SAR-M-1-PE1
+Vl112                          up             up       HIPCC-MGMT-DATA-DAC9
+Vl113                          up             up       HIPCC-MGMT-VOICE-DAC9
+Vl115                          up             up       L3-IDX-5231-IBS-SAR-M-1-PE1
+Vl119                          up             up       L3-DXB-1680-IBS-SAR-M-1-PE1
+Vl121                          up             up       L3-DXB-0448-IBS-SAR-M-1-PE1
+Vl125                          up             up       EITC-ITALTEL-VOICE
+Vl126                          up             up       EITC-ITALTEL-VOICE-2
+Vl127                          up             up       L3-IDX-5288-IBS-SAR-M-1-PE1
+Vl131                          up             up       L3-DXB-0877-IBS-SAR-M-1-PE1
+Vl133                          up             up       eNodeB-DXBL0462
+Vl134                          up             up       eNodeB-DXBL0828
+Vl135                          up             up       eNodeB-DXBL0523
+Vl136                          up             up       eNodeB-DXBL0524
+Vl141                          up             up       Mobile-Huawei-IDX0999B
+Vl142                          up             up       MEF-Certification-DIC-5-MPLS(Wo#1-7486551309)
+Vl143                          up             up       854-EITC-BRAS-AAA-L3-VPN (WO#771734)
+Vl145                          up             up       5.44075-MEF-Certification-DHCC(Wo#1-7486551309)
+Vl148                          up             up       L3-DXB-0434-IBS-SAR-M-1-PE1
+Vl151                          up             up       L3-DXB-0435-IBS-SAR-M-1-PE1
+Vl156                          up             up       IXOPS-DPI-TESTING
+Vl158                          up             up       L3-DXB-0436-IBS-SAR-M-1-PE1
+Vl161                          up             up       GPON_FNL_LAB_CPE_Mgnt
+Vl162                          up             up       GPON_FNL_LAB_Voice
+Vl163                          up             up       L3-DXB-0437-IBS-SAR-M-1-PE1
+Vl168                          up             up       L3-IDX-5439-IBS-SAR-M-1-PE1
+Vl170                          up             up       L3-IDX-5233-IBS-SAR-M-1-PE1
+Vl173                          up             up       L3-DXB-1637-IBS-SAR-M-1-PE1
+Vl178                          up             up       L3-DXB-1475-IBS-SAR-M-1-PE1
+Vl180                          up             up       L3-DXB-1770-IBS-SAR-M-1-PE1
+Vl182                          up             up       L3-DXB-2693-IBS-SAR-M-1-PE1
+Vl184                          up             up       L3-DXB-2689-IBS-SAR-M-1-PE1
+Vl186                          up             up       L3-DXB-1774-IBS-SAR-M-1-PE1
+Vl188                          up             up       L3-IDX-0967E-CSG-SAR-X-1-PE1
+Vl190                          up             up       5.44075-Mobile-Huwei-IBS-IDX0766
+Vl191                          up             up       LTE-ACCESS-IDXL5766
+Vl193                          up             up       L3-DXB-2332-CSG-SAR-X-1-PE1
+Vl199                          up             up       Access_team_test
+Vl204                          up             up       L3-DXB-2333-CSG-SAR-X-1-PE1
+Vl208                          up             up       L3-DXB-0995-CSG-SAR-X-1-PE1
+Vl210                          up             up       L3-DXB-1555-CSG-SAR-X-1-PE1
+Vl214                          up             up       CID1.19339629-HabibBank-Interoute-WO#1-18024140666-CONTR0046286315-L2MPLS
+Vl216                          up             up       L3-DXB-1779-CSG-SAR-X-1-PE1
+Vl218                          up             up       L3-DXB-2237-CSG-SAR-X-1-PE1
+Vl236                          up             up       CID6.154497.00.00.100001-Bloomberg-WO#1-83311625206-CONTR0070694898-L2MPLS 
+Vl241                          up             up       LTE-ACCESS-IDXL5999I
+Vl242                          up             up       LTE-ACCESS-IDXL5999II
+Vl246                          up             up       Nokia-LTE-ACCESS-IDXL5957
+Vl247                          up             up       Mobile-NOKIA-IDX0957
+Vl289                          up             up       DXB-FC-POP-ME49-BDS-1A-1B-MS-CPE-MGMT
+Vl290                          up             up       CID5.28946.10.00.100009-DubaiSG-WO#1-89601793574-CONTR0072572384-L2MPLS 
+Vl293                          up             up       IP-SLA-TEST-A-CE
+Vl294                          up             up       IP-SLA-TEST-B-CE
+Vl295                          up             up       IP-SLA-ONM-TEST-CE
+Vl298                          up             up       *** NOC L2 MPLS Link for Omantel IPTV Monitoring ***
+Vl306                          up             up       CID5.36590.00.00.100000-EmiratesGroup-WO#1-177477446769-CONTR0045046567-EBGP-2GB-Inet
+Vl307                          admin down     down     EITC-DU-RS-AlBawadi-ducorp migrated to AAN2258 Preagg
+Vl308                          admin down     down     EITC-DU-RS-AlBawadi-ducorp migrated to AAN2258 Preagg
+Vl316                          up             up       Telepresence-MPLS-DAC09
+Vl320                          up             up       CID6.109526.10.10.100000-Eitc-du-New-Hospitality-DAC-Bldg9-WO-1-23395293682-CONTR0048914577-L3MPLS
+Vl322                          up             up       Tandberg-MPLS-DAC09
+Vl324                          up             up       Tandberg-DOZ-CC
+Vl325                          up             up       Du-Hospitality-DOZ
+Vl326                          up             up       
+Vl327                          up             up       6.109526.00-Eitc-du-IBSHuawei-DIAC
+Vl329                          up             up       CID5.85422.00.00.100000-FLYDUBAI-WO-1-64262494144-CONTR0064631035-L3MPLS
+Vl333                          up             up       IBS-NodeB-IDX0015T
+Vl339                          up             up       6.109526.00-Eitc-du-LTE-DIAC
+Vl342                          up             up       5.26182.00-AlFuttaimMsd-1-71874401151-CONTR0067168337-L3MPLS
+Vl365                          up             up       TSD-DAC8-HIPCC-Voice
+Vl369                          up             up       CID6.109526.00.00.100206-COSTCENTER-WO#1-169254860179-CONTR0089222431-DuWiFi
+Vl376                          up             up       OTN-ONM-GNE
+Vl381                          up             up       5.38067.00-Expereo-eBGP-Inet(Pri)
+Vl382                          up             up       5.38067.00-Expereo-MGMT-MPLS-Spoke
+Vl388                          up             up       CID5.79589.10.00.100000-UAEUFixed-WO#1-93679234990-CONTR0073507024-L3MPLS
+Vl399                          up             up       NOC-L2-Marina-DOZ
+Vl400                          up             up       WiFi-DU-DOZ-MGT
+Vl405                          admin down     down     5.44075-DU-CC-DAC9-AgentDesktop-Floor4 SHUTDOWN BY SLO IP ACCESS
+Vl409                          up             up       5.44075-DU-CC-HIPCC-Voice-4F-DAC9
+Vl417                          up             up       CID5.71471-AttraInfotech-WO#1-49138089551-CONTR0059982688-PremiumEthernet
+Vl421                          up             up       DOZ-DQ-HIPCC-Voice
+Vl424                          up             up       CID5.39192.00.00.100000-ArabBankDoz-WO#1-12622996463-CONTR0043910669-ebgp
+Vl425                          up             up       TellabseTest-677857
+Vl430                          up             up       CID5.43903-HSBCBankMiddleEast-1-109702558739-CONTR0074501673-L3MPLS
+Vl432                          up             up       Private-GRT-To-FW
+Vl454                          up             up       BVSM-O&M DAC9
+Vl459                          up             up       
+Vl461                          admin down     down     XXXXX
+Vl462                          admin down     down     Corp-User-WL-HUB_SOUTH_VRF
+Vl487                          up             up       CID-6.109526.00.00.100184-Eitc-du-SmartCity-MGMT-WO-1-73410192069-CONTR0067789020-L3MPLS
+Vl490                          up             up       METRO-WIMAX-O&M
+Vl499                          up             up       Mobile-Huawei-IDX0999A
+Vl500                          up             up       
+Vl502                          up             up       Carrier-Partner-NNI-L2-TEST
+Vl503                          up             up       Test-ckt to INDC GSR
+Vl504                          up             up       TEST-APN
+Vl505                          up             up       
+Vl506                          up             up       
+Vl508                          up             up       Carrier-Partner-NNI-L2-TEST
+Vl515                          up             up       ***Test-VLAN-4thfloor-DAC***
+Vl520                          up             up       *** TAP For BroadBand Troubleshooting ***
+Vl521                          up             up       AC-Phase3-Bsmt-BDS-Corp-User-Wired-HUB
+Vl522                          up             up       AC-Phase3-Bsmt-BDS-Corp-User-Wireless-HUB
+Vl530                          admin down     down     IPTV-MVPN
+Vl546                          up             up       CID5.29907.00.00.100000-DubaiPolice-WO-1-22170757645-CONTR0048282265-Static-DP-L2MPLS
+Vl550                          up             up       CID5.42864.00.00.100000-Diac-DubaiInternation-WO-1-23798748623-CONTR0049057168-L3MPLS
+Vl554                          up             up       
+Vl557                          up             up       CID6.109526.00.00.100046-EitcduNewWi-FI-WO#1-113342806150-CONTR0077618103-L3MPLS
+Vl559                          up             up       MSAN-Zhone-LAB-MPLS
+Vl563                          up             up       
+Vl565                          up             up       Du-Corp-Alain-MUNRS
+Vl566                          up             up       Shuttle-Alain-MUNRS
+Vl567                          up             up       PWiFi_SIT_TB_DAC09
+Vl569                          up             up       PWiFi_SIT_TB_DOZ
+Vl570                          down           down     
+Vl572                          up             up       *** Mashreq_Bank_110_NETWORK_PROBE_MGT ***
+Vl573                          up             up       5.42734.00-MashreqBank-Airtel-PROBE_LEG
+Vl578                          up             up       GV-L2-Test
+Vl579                          up             up       GV-L3-Test
+Vl580                          up             up       Tellbase-DOZ
+Vl582                          up             up       testingQinQ
+Vl583                          up             up       CID5.39913.10.00.100000-DubaiIslamicBank-100MB-Sec-1-136746031825-CONTR0082554463-L3MPLS
+Vl584                          up             up       TEST-APN
+Vl585                          up             up       Retail-Shop-DuCorp
+Vl586                          up             up       Retail-Shop-Shuttle-Inet
+Vl587                          up             up       Retail-Shop-DuCorp-As-Miz  
+Vl588                          up             up       Tellbase-DAC9
+Vl589                          up             up       Retail-Shop-Shuttle-Inet-As-Miz
+Vl590                          up             up       854-Eitc-Wo#910163-L2-MPLS
+Vl591                          up             up       Mobile-lte-HW-Data-Spoke1
+Vl592                          up             up       Mobile-lte-HW-CNTRL-Spoke1
+Vl593                          up             up       Mobile-lte-HW-O&M-Spoke1
+Vl594                          up             up       Mobile-lte-HW-X2-Spoke1
+Vl595                          up             up       CID5.29907.00.00.100000-DubaiPolice-DAC-HQ-WO#1-12581427832-CONTR0042917534-L2MPLS
+Vl601                          up             up       Du-CCTV-AlSalam-AC-L2
+Vl603                          up             up       DU Access Seeker Residential Management
+Vl604                          up             up       DU Access Seeker Residential Voice
+Vl605                          up             up       CID5.39192.00.00-ArabBank-WO-1-50846993022-CONTR0059885528-INJ-L3MPLS  
+Vl606                          up             up       5.44075-Mobile-HuawIBS-DXB0462 
+Vl607                          up             up       CID5.39192.00.00.100000-ArabBank-WO#1-45871467222-DozAcss-CONTR0045528449-L3MPLS
+Vl608                          up             up       CID5.54203.11-ENOC-1-69066733738-CONTR0067853201-MS-L3MPLS-SPOKE
+Vl609                          up             up       WiFi-Gitex-test
+Vl610                          up             up       CID5.85422.00.00.100000-FLYDUBAI-WO-1-64373556334-CONTR0064692320-INJMGMNT-L3MPLS
+Vl612                          up             up       CID5.54203.11-ENOC-WO1-75565942257-CONTR0068102022-50-MS-L3MPLS-SPOKE
+Vl614                          up             up       CID6.109526.00.00.100046-Eitc-du-New-WO#1-128699355731-CONTR0080849600-L3MPLS  
+Vl619                          up             up       60017984-ArabBank-Doz-L2MPLS(To-DIFC-Gate10)
+Vl620                          up             up       854-Mobile-Huawei-IBS-IMTCampus-Spoke
+Vl626                          up             up       5.28946.10.00-DubaiSmartGovt-L2mpls
+Vl630                          admin down     down     Reloacted to DXB-3724-AGGR-SR7-1(Lag-65:724)
+Vl631                          up             up       5.44075-EITC-SOC-MPLS-CONTR0045503641-WO-1-16684942511
+Vl632                          up             up       CID5.42705.00.00.100000-E-HostingDatafort-1-42829532028-CONTR0020021433-L2MPLS
+Vl636                          up             up       5.44075-EITC-DU-RFID-FutureCity-POP
+Vl637                          up             up       Du-SOC-L2MPLS-DOZ-DIC3
+Vl639                          up             up       5.38067.10-ExpereoIntl-MGMT-MPLS
+Vl642                          up             up       L2MPLS-CentralBank-CONTR0020317085-MashreqBank-(Link to DIC4)
+Vl651                          up             up       5.44075-Eitc-CCTV-OudMuteena-BDS
+Vl652                          up             up       5.44075-Eitc-PWiFi-RS-Alnml-DATA
+Vl653                          up             up       5.44075-Eitc-PWiFi-RS-Alnml-MGT
+Vl654                          up             up       6.109526.00-EITC-GF-Security-Office
+Vl655                          up             up       CID5.42734.00.00.100000-MashreqBanKDOZ-WO#1-59757030216-CONTR0062932096-eBGP-Inet1
+Vl660                          up             up       
+Vl661                          up             up       Mobile-TV-Monitoring
+Vl663                          up             up       5.44075-Eitc-PWiF-RS-AlAnMu-DATA
+Vl664                          up             up       5.44075-Eitc-PWiF-RS-AlAnMu-MGT
+Vl665                          up             up       CID6.109526.00.00.100043-Eitc-du-AswaqMizhar-MGT-WO-1-46387528793-CONTR0058450108-WifiMGMT-L3MPLS
+Vl666                          up             up       Du-Heart-L3MPLS-Test
+Vl667                          up             up       854-EITC-BMS-L3
+Vl670                          up             up       Du-CCTV-AC-DAC9
+Vl671                          up             up       CID5.36343.00.00.100000-MashreqBankDOZ-WO#852359-CONTR0017842118-L3MPLS-ATMHUB
+Vl672                          admin down     down     Du-CCTV-AC-DOZ SVI disabled requested by Access 
+Vl675                          up             up       854-EITC-L2MPLS-DAC9-Barsha
+Vl677                          up             up       854-EITC-SSU-O&M-DAC9-MPLS (WO768428)
+Vl678                          up             up       854-Eitc-Metro-IBS-MGMT-WO#790957
+Vl679                          admin down     down     854-Du-Metro-IBS-MGMT-JI-Spoke(790957)
+Vl680                          up             up       CID1.31079497-ArabFinancialServices-KalaamTelecom-ICR-WO#1-38498792329-CONTR0055376008-L2MPLS
+Vl682                          up             up       854-EITC-Peregrine-MPLS#Wo-865699
+Vl683                          up             up       5.44075-EITC-DU-RFID-oudmuteena-POP
+Vl684                          up             up       CID5.71471.10.00.100000-AttraInfotech-WO-1-63166623499-CONTR0064240290-L2MPLS
+Vl686                          up             up       CID5.43895.00.00.100000-TheManager-WO-1-88075537468-CONTR0020317089-L3MPLS-BranchHUB
+Vl687                          up             up       5071405-MashreqBank-DOZ26-DataCenter-WO#852359
+Vl688                          up             up       Du-SOC-L2MPLS-DOZ-KV2A
+Vl690                          up             up       CID5.42824.00.00.100000-DubaiProperties-WO-1-23935895487-CONTR0049138885-L3MPLS
+Vl693                          up             up       5.44075-EITC-DU-RFID-Alwarqa-POP
+Vl694                          up             up       5.44075-EITC-Polycom-VRF-Access-MPLS
+Vl696                          up             up       5.44075.00-Eitc-CCTV-Sport-Spoke
+Vl697                          up             up       5.87639.00-ZK&SonsGeneralTradingFZCO-L3-MPLS
+Vl699                          up             up       CID5.42734.00.00.100004-MashreqBank-HeriotWattUniversity-WO-1-44476889579-CONTR0057615546-L3MPLS
+Vl703                          up             up       CID5.54203.11-ENOC-1-69067794813-CONTR0068194549-1092-MS-L3MPLS-SPOKE
+Vl704                          up             up       CID5.29907.00.00.100000-DubaiPolice-WO-54188669452-CONTR0061598740-L2MPLS1
+Vl707                          up             up       DOZ24-BA-C4K-MS-CPE-MGMT
+Vl710                          up             up       60022861-Thurayacommn-SiteC-L2-MPLS
+Vl711                          up             up       5.44075-Eitc-PWiFi-RS-Aswaq-DATA
+Vl712                          up             up       5.44075-Eitc-PWiFi-RS-Aswaq-MGT
+Vl713                          up             up       PWiFi-Test-DAC9
+Vl714                          up             up       5.39192.00-ArabBank-INJMNGMNT-L3MPLS
+Vl716                          up             up       5.44075-lte-Hw-data-DXB0503-B
+Vl717                          up             up       5.44075-lte-HW-control-DXB0503-B
+Vl718                          up             up       5.44075-lte-HW-O&M-DXB0503-B
+Vl719                          up             up       5.44075-Eitc-PWiFi-DAC9-DATA
+Vl720                          up             up       WiFi-StarBucks-DOM-DATa
+Vl721                          up             up       CID6.109526.10.10.100000-Eitc-du-New-WO-1-23437653988-CONTR0048932695-WiFi-StarBucks-DOM-MGT
+Vl725                          up             up       WiFi-StarBucks-DIAC-FC-Data
+Vl726                          up             up       CID6.109526.10.10.100000-Eitc-WiFi-StarBucks-DIAC-FC-Mgmt-WO-1-23777094655-CONTR0049054900-L3MPLS
+Vl728                          up             up       testing QinQ
+Vl729                          up             up       CID5.42908.00.00.100000-Aswaaq-INJ-MGT-WO-1-60622319997-CONTR0063112017-L3MPLS
+Vl732                          up             up       CID5.42908.00.00.100000-Aswaaq--WO-1-60622319997-CONTR0063111804-L3MPLS
+Vl733                          up             up       CID4.9601.00.00.100001-MedcareHosp-WO-1-83421234170-CONTR0070955344-MSVPN
+Vl736                          up             up       CID5.44004.00.00.100000-AxaInsurance-WO#1-109546776003-CONTR0078369755-MS-MPLS
+Vl739                          up             up       MGT-HIPCC-SIT-LAB-BLD9
+Vl741                          up             up       CID5.29036.00.00.100000-AlFuttaimWill--WO-1-48875267418-CONTR0059885528-INJ-L3MPLS
+Vl743                          up             up       5.44075-Mobile-Huwei-IBS-DXB0524
+Vl744                          up             up       5.44075-Mobile-Huwei-IBS-DXB0523
+Vl745                          up             up       5.44075-Mobile-Huwei-IBS-DXB0828
+Vl748                          up             up       5.57346.00-Shoemart-L3MPLS
+Vl749                          up             up       DuCorpNSN-DAC9toDAC2
+Vl750                          up             up       
+Vl762                          up             up       Hospitality-DAC-Bldg9
+Vl767                          up             up       5.44075.00-Eitc-FW to Polystar VRF
+Vl769                          up             up       CID6.109526.10.10.100000-Eitc-du-New-1-23403455506-CONTR0048922205-WiFi-AC-Bld9-MGT
+Vl771                          admin down     down     CID6.109526.10.10.100000-Eitc-AlAinBawadiMall-WO#1-23141681121-CONTR0048789103-L3-MPLS SVI disabled requested by Access
+Vl772                          up             up       CID 5.36415.00.00.100000-ReptonSchool-INJ-MGT-WO-1-53593680171-CONTR0061262358-L3MPLS
+Vl776                          up             up       CID5.39192.00.00.100000-ArabBankDozAcss-WO#1-12429487920-CONTR0042763988-L2-MPLS
+Vl777                          up             up       CID-5.42734.00.00.100000-MashreqBank-Airtel-WO-1-154382045276-CONTR0078759195-L3MPLS-PRIM
+Vl778                          up             up       CID5.68834.00.00.100001-NBRAK-WO-1-163621395912-CONTR0087928287-MSIPVPN
+Vl780                          up             up       CID1.21615815-CustomConnect-BSO-ICR-WO#1-36565041815-CONTR0054136102-L2MPLS
+Vl783                          up             up       854-Du-Noc-800-HIPCC-Voice WO706852(ACTIVE)
+Vl788                          up             up       854-EITC-DU-NEC-723396-ONM-MPLS
+Vl791                          up             up       DOZ-EITC-SOC
+Vl792                          admin down     down     
+Vl794                          up             up       WIFI-MGMNT-RAN TEAM MPLS 
+Vl795                          up             up       DAC9-OAM-FMS-MPLS
+Vl796                          up             up       WiFi-CORE-MGMNT-MPLS-CC
+Vl798                          up             up       CID5.63243.10.00.100000-InterGlobeSer-INJ-WO-1-57231773600-CONTR0062417919-L3MPLS
+Vl799                          up             up       EITC-SOC
+Vl801                          up             up       DOZ24-BA-C4K-ENOC-1063-MS-CPE-MGMT
+Vl805                          up             up       5.44075-EITC-DU-CCTV-DOZ-POP
+Vl808                          up             up       DOZ24-BA-C4K-BDS-MS-CPE-MGMT
+Vl809                          up             up       5.44075-EITC-DOZ24-BA-BDS-BMS
+Vl810                          up             up       CID5.32335.00.00.100038-EmiratesBank-wO-1-59080182158-CONTR0062818831-L3MPLS
+Vl811                          up             up       CID5.42705.00.00.100000-E-Hosting_Datafort-WO-1-67441778987-CONTR0065903950-L3MPLS-SPOKE 
+Vl812                          up             up       854-EITC-Baynounah-Test-DACLAB-WO#816351
+Vl813                          up             up       5.44075-EITC-DOZ24-BA-BDS-BMS
+Vl815                          admin down     down     854-EITC-Du-EKMS-DOZ24-BDS
+Vl816                          up             up       CID5.32596.00.00.100000-HamdanBinE-university-WO#1-13585609200-CONTR0044410582-INJMGMNT-L3-MPLS
+Vl818                          up             up       5.44075-EITC-L3-DOZ22-23-BMS
+Vl820                          up             up       WiFi-DU-DOZ-MGT
+Vl822                          up             up       854-EITC-DU-TSRM-LAB-O&M-WO#819304
+Vl823                          up             up       854-EITC-MPLS-TSRM-LAB-WO#819304
+Vl827                          up             up       854-EITC-EKM-AControl-L3-MPLS(AC-Shiba-Bld3-ME49-BDS1A&B)
+Vl828                          up             up       854-EITC-EKM-AControl-L3-MPLS-01(DOZ24-ME49-BDS-1A&B)
+Vl830                          up             up       854-EKM-L3-MPLS-AC-Phase3-Bsmt
+Vl831                          up             up       5.44075-EKMS-DAC9-MPLS-1-23052600561
+Vl834                          up             up       CID6.109526.00.00.100043-Eitc-WiFi-DIAC-OutdoorArea1&Foodcourt-WO-1-33556466082-CONTR0052755231-L3MPLS
+Vl835                          up             up       CID6.109526.00.00.100044-COSTCENTER-12281-DuCorp-WO#1-152164858529-CONTR0085806305-Spoke
+Vl840                          up             up       5.44075-EITC-SIRT-DOZ24-L3-MPLS
+Vl841                          up             up       5.44075.00-Eitc-SIRT-DIAC-L3MPLS
+Vl842                          up             up       CID5.92771.10.00.100000-DA-DESK-WO#1-13668625600-CONTR0044585234-INJMNG-L3MPLS
+Vl843                          up             up       5.44075.00-EITC-DAC9-HIPCC-Voice
+Vl844                          up             up       DXB-FC-POP-ME49-BDS-ENOC-1092-MS-CPE-MGMT
+Vl851                          up             up       CID5.38546.00.00.100000-Heriot-WO#1-14472532885-CONTR0044635080-INJMGMNT-L3-MPLS
+Vl852                          up             up       5.44075-EITC-DuBiot-DAC-L2MPLS(WO#1-8566239553)
+Vl853                          up             up       CID5.42824.00.00.100003-DubaiPrope-Layan-WO-1-38426950257-CONTR0055376499-L3MPLS
+Vl854                          up             up       854-EKM-L3-MPLS-OudMuteena-BDS1
+Vl855                          up             up       *** To AC DOC TRA_CoA-POC ***
+Vl856                          up             up       854-EITC-EKM-AControl-L3-MPLS-SITE-ID-0019
+Vl858                          up             up       5.26182.00-AlFuttaimMsd-L3MPLS-ESPRIT
+Vl859                          up             up       CID5.26182.00-AlFuttaimMsd-WO-1-57254798742-CONTR0051688183-L3MPLS
+Vl862                          up             up       AC-Bld9-C4K-BDS-MSS-CPE-Data
+Vl865                          up             up       AC-Phase3-Bsmt-BDS-MS-CPE-MGMT
+Vl867                          up             up       FLO-NOC-HIPCC-Voice
+Vl868                          up             up       AC-Bld9-C4K-BDS-MSS-CPE-Data
+Vl869                          up             up       854-Mobile-lte-HW-Data-HUB-MPLS
+Vl870                          up             up       854-Mobile-lte-HW-CNTRL-HUB-MPLS
+Vl875                          up             up       CID5.54203.11-ENOC-WO1-69112068860-CONTR0067124413-1097-MS-L3MPLS-SPOKE
+Vl876                          up             up       CID5.44007.00.00.100000-DuniaFinance-WO#1-173634977528-CONTR0090559544-MSIPVPN
+Vl877                          up             up       5.26433.00-LandmarkGulf-L3eBGP
+Vl878                          up             up       WiFi-PH0-PH1-Test
+Vl879                          up             up       EITC-TRXCORE-L2MPLS
+Vl882                          up             up       CID6.109526.00.00.100043-Eitc-du-New-WO-1-58432367666-CONTR0062686233-WifiMangmt-L3MPLS
+Vl883                          up             up       AC-DOZ24-ME49-BDS-MS-CPE-MGMT
+Vl885                          up             up       CID5.70975.10.00.100000-TRAFEDnet-WO-1-53104826620-INJ-CONTR0061097515-L3MPLS
+Vl886                          up             up       CID5.43908.00-CupolaTeleservicesLimited-wo-1-61101207761-CONTR0063436465-L3MPLS  
+Vl887                          up             up       HCS-CORPORATE-VOICE
+Vl888                          up             up       BVSM-VOICE connection to DAC9
+Vl890                          up             up       to to MSS Public TSRM
+Vl891                          up             up       to to MSS Private TSRM
+Vl893                          up             up       5.44075-EITC-CCTV-DXBOUTLETMALL-RS
+Vl894                          up             up       MS-CPE-MGMT-ENOC1097
+Vl895                          up             up       CID4.4110.12.00.100000-DUBAISC-WO#1-138577001425-CONTR0083445372-MS-L3MPLS
+Vl898                          up             up       DOZ24-BA-C4K-ENOC-50-MS-CPE-MGMT
+Vl899                          up             up       5.44075-EITC-AC-Phase3-Bsmt-BMS
+Vl900                          up             up       DU-HICOM-MGMT-DIC4-DAC
+Vl901                          up             up       20162-NokiaCorp-BVS-IPT
+Vl905                          up             up       BVS-CLUS1-DXB-FC-POP-BDS-2A
+Vl906                          up             up       BVS-CLUS2-DXB-FC-POP-BDS-2A
+Vl907                          up             up       BVS-CLUS3-DXB-FC-POP-BDS-2A
+Vl908                          up             up       BVS-CLUS4-DXB-FC-POP-BDS-2A
+Vl909                          up             up       AC-DOZ22-23-B7-BDS-1&AC-DOZ22-23-B7-BDS-2-MS-CPE-MGMT
+Vl910                          up             up       DOM-MallBld-ABR1-BDS-1&DOM-MallBld-ABR1-BDS-2-MS-CPE-MGMT
+Vl911                          up             up       HCS-VOICE connection to DAC9-PHASE3
+Vl914                          up             up       5.28946-DubaiEGov-L2MPLS-L3(Dubai Statistics Center)
+Vl922                          up             up       60017984-ArabBank-L2-MPLS-to-DHCC
+Vl923                          up             up       854-Eitc-Du-PPP-IPTV-MVPN
+Vl925                          up             up       L2-DIFC-RSPAN
+Vl930                          up             up       HCS-duCorp-Cluster-DAC9
+Vl939                          admin down     down     Huawei_5G_Trial_Gitex_2018
+Vl941                          up             up       BVS-CLUS1-Dxb-AC-Shba-Bl3-BDS1A
+Vl942                          up             up       BVS-CLUS2-Dxb-AC-Shba-Bl3-BDS1A
+Vl943                          up             up       BVS-CLUS3-Dxb-AC-Shba-Bl3-BDS1A
+Vl944                          up             up       BVS-CLUS4-Dxb-AC-Shba-Bl3-BDS1A
+Vl945                          up             up       BVS-AC-Blk9-FANLAB
+Vl946                          up             up       AC-LAB-HuaweiBDS-BVSM-Cluster-Primary
+Vl947                          up             up       AC-LAB-ciscoBDS-BVSM-Cluster-Primary
+Vl948                          up             up       CID5.38583.00.00.100000-OmanPublicShareInsurance-WO#1-95492487282-CONTR0073984753-L3-MPLS
+Vl949                          up             up       HCS-NAKHEEL-DAC9
+Vl950                          up             up       Academic City BVSM-DATA-Spoke
+Vl955                          up             up       BVS-AC-Phase3-Bsmt-BDS-CLUSTER1-Pri
+Vl956                          up             up       BVS-AC-Phase3-Bsmt-BDS-CLUSTER2-Sec
+Vl957                          up             up       BVS-AC-Phase3-Bsmt-BDS-CLUSTER3-Sec
+Vl958                          up             up       BVS-AC-Phase3-Bsmt-BDS-CLUSTER4-Sec
+Vl959                          up             up       DOZ24-BVSM-Cluster-1-Primary
+Vl960                          up             up       DOZ24-BVSM-Cluster-2
+Vl961                          up             up       DOZ24-BVSM-Cluster-3
+Vl962                          up             up       DOZ24-BVSM-Cluster-4
+Vl967                          up             up       DOZ22-23-BVSM-Cluster-1-Primary
+Vl968                          up             up       DOZ22-23-BVSM-Cluster-2
+Vl969                          up             up       DOZ22-23-BVSM-Cluster-3
+Vl970                          up             up       DOZ22-23-BVSM-Cluster-4
+Vl971                          up             up       OudMuteena-HCS-Cluster-1-Primary
+Vl972                          up             up       OudMuteena-BVSM-Cluster-2
+Vl973                          up             up       OudMuteena-BVSM-Cluster-3
+Vl974                          up             up       OudMuteena-BVSM-Cluster-4
+Vl979                          up             up       MallBld-BVSM-Cluster-1-Primary
+Vl980                          up             up       CID5.43895.00.00.100000-TheManagerCentral-WO-1-69687947163-CONTR0066679448-L3MPLS-RadiusServerBackup
+Vl981                          up             up       MallBld-BVSM-Cluster-2
+Vl982                          up             up       MallBld-BVSM-Cluster-3
+Vl983                          up             up       MallBld-BVSM-Cluster-4
+Vl984                          up             up       BVS-DOZ24-ME49-BDS-1AB-Clust1-Pri
+Vl985                          up             up       BVS-DOZ24-ME49-BDS-1AB-Clust2
+Vl986                          up             up       VS-DOZ24-ME49-BDS-1AB-Clust3
+Vl987                          up             up       BVS-DOZ24-ME49-BDS-1AB-Clust4
+Vl988                          up             up       FutureCity-POP-Cluster-Primary
+Vl989                          up             up       T FutureCity-POP-Cluster-Sec1
+Vl990                          up             up       FutureCity-POP-Cluster-Sec2
+Vl991                          up             up       FutureCity-POP-Cluster-Sec3
+Vl992                          up             up       TEST-HCS
+Vl993                          up             up       WiMAX-Mgmt-Shatha-DAC9
+Vl995                          up             up       854-EITC-TEST-TC1A-InteRouteRAD-Mgmt-WO720585
+Vl996                          up             up       TEST-HCS-1
+Vl997                          up             up       WiFi-du-Guest-DOZ
+Vl998                          up             up       Ericson-Trail-IMS-ToSiteC-A
+Vl999                          up             up       WiFi-du-Guest-DAC9
+Vl1002                         admin down     down     
+Vl1204                         up             up       BS-AP-AC-DOZ22-23-B7-BDS-1-Mgmt
+Vl1208                         up             up       Connects to BS-AS-DOM-MallBld-ABR1-1-Mgmt
+Vl1209                         up             up       Connects to BS-AS-DOZ24-BA-BDS-1-Mgmt
+Vl1210                         up             up       Connects to BS-AS-AC-Shiba-Bld3-BDS1A-Mgmt
+Vl1211                         up             up       Connects to BS-AS-FC-POP-ME49-1A-Mgmt
+Vl1212                         up             up       Connects to BS-AS-AC-FC-POP-BDS2-1-Mgmt
+Vl1213                         up             up       Connects to BS-AS-OudMuteena-BDS1A-Mgmt
+Vl1214                         up             up       Connects to BS-AS-AC-DOZ24-ME49-BDS-1A-Mgmt
+Vl1216                         up             up       Connects to BS-AS-Lab-Cisco-Me49-BDS-1A-Mgmt
+Vl1217                         up             up       Connects to BS-AS-Lab-Huawei-s93k-BDS-1A-Mgmt
+Vl1249                         up             up       BS-AS-Testing-Huwai-AC-Phase3-Bsmt-Mgmt
+Vl1252                         up             up       
+Vl1254                         up             up       BS- AP-AC-DOZ22-23-B7-BDS-1-Voice
+Vl1255                         up             up       
+Vl1258                         up             up       Connects to BS-AS-DOM-MallBld-ABR1-1-Voice
+Vl1259                         up             up       Connects to BS-AS-DOZ24-BA-BDS-1-Voice
+Vl1260                         up             up       Connects to BS-AS-AC-Shiba-BLD3-1A-Voice
+Vl1261                         up             up       Connects to BS-AS-FC-POP-ME49-1A-Voice
+Vl1262                         up             up       Connects to BS-AS-AC-FC-POP-BDS2-1-Voice
+Vl1263                         up             up       BS-AS-OudMuteena-BDS1A-Voice
+Vl1264                         up             up       Connects to BS-AS-AC-DOZ24-ME49-BDS-1A-Voice
+Vl1266                         up             up       Connects to BS-AS-Lab-Cisco-Me49-BDS-1A-Voice
+Vl1267                         up             up       Connects to BS-AS-Lab-Huawei-s93k-BDS-1A-Voice
+Vl1299                         up             up       BS-AS-Testing-Huwai-AC-Phase3-Bsmt-Voice
+Vl1300                         up             up       CID-6.109526.00.00.100046-Eitc-du-New-WO-1-94113821117-CONTR0073672545-Wifi-L3MPLS
+Vl1301                         up             up       *** BS  Business Services Link 1 ***
+Vl1302                         up             up       *** BS  Business Services Link 2 ***
+Vl1304                         admin down     down     BS- AP-AC-DOZ22-23-B7-BDS-1-Video
+Vl1313                         up             up       
+Vl1333                         up             up       CID5.44004.00-AXAIGBDB-WO#1-118333137362-CONTR0078833924-Primary-L2MPLS
+Vl1349                         up             up       BS-AS-Testing-Huwai-AC-Phase3-Bsmt-Video
+Vl1350                         up             up       DU-Etisalat-BS-Link-4
+Vl1354                         up             up       **DMTC-BNG-1**
+Vl1358                         up             up       **DMTC-BNG-1**
+Vl1360                         up             up       **DMTC-BNG-1**
+Vl1361                         up             up       **DMTC-BNG-1**
+Vl1362                         up             up       **DMTC-BNG-1**
+Vl1363                         up             up       to BS-AS-OudMuteena-BDS1A-Inet
+Vl1364                         up             up       to BS-AS-AC-DOZ24-ME49-BDS-1A-Inet
+Vl1366                         up             up       **DMTC-BNG-1**
+Vl1367                         up             up       **DMTC-BNG-1**
+Vl1370                         up             up       SmartCity-HIPCC-DAC9-Voice
+Vl1398                         up             up       dulab_SAM Client_DAC9 2nd Floor 
+Vl1399                         up             up       **DMTC-BNG-1**
+Vl1400                         up             up       Carrier-Partner-NNI-L2-TEST
+Vl1450                         up             up       TEST-Circuite-IM4531189
+Vl1500                         up             up       CID6.109526.00.00.100046-Eitc-du-WO#1-123473585138-CONTR0079727648-Wifi-L3MPLS
+Vl1563                         admin down     down     
+Vl1704                         up             up       **DMTC-BNG-1**
+Vl1705                         up             up       **DMTC-BNG-1**
+Vl1706                         up             up       **DMTC-BNG-1**
+Vl1708                         up             up       **DMTC-BNG-1**
+Vl1709                         up             up       **DMTC-BNG-1**
+Vl1710                         up             up       **DMTC-BNG-1**
+Vl1711                         up             up       **DMTC-BNG-1**
+Vl1712                         up             up       **DMTC-BNG-1**
+Vl1713                         up             up       **DMTC-BNG-1**
+Vl1714                         up             up       CID5.42734.00.00.100000-MashreqBank-WO-1-91079989740-CONTR0072929155-L3-MPLS-BULK-SMS
+Vl1888                         up             up       CID5.43895.00.00.100000-Mashreqbank-WO#1-124663187794-CONTR0079934490-L3MPLS
+Vl1890                         up             up       description CID5.42734.12.00.100000-MashreqBank-WO#1-144722452825-CONTR0084718284-GMS-L2MPLS-Primary
+Vl1892                         up             up       CID6.109526.00.00.100052-COSTCENTER-WO-1-153426045748-CONTR0086079135-L2MPLS
+Vl1894                         up             up       CID4.3330.00.00.102719-EmiratesAirlines-WO#1-170588677715-CONTR0089887326-MS-L3MPLS 
+Vl2024                         up             up       CID6.178761.00.00.100000-NationBankOfFujairWO-1-165389437208-CONTR0088269168-L3MPLS
+Vl2198                         up             up       L2-DBT-BNG-1
+Vl2259                         up             up       CID5.36501.00-THURAYATelecommunications-Episilon-PS-WO#1-28025399246-CONTR0017843584-L2MPLS
+Vl2260                         up             up       CID5.32845.00.00.100000-NowHealthInternational-Episilon-WO#1-20931366535-CONTR0047529281-L2MPLS 
+Vl2505                         up             up       CID-1.19325517-ArabFIN-Orange-ICR-WO-1-98526467576-CONTR0074692518-L2MPLS
+Vl2517                         up             up       CID1.19325517-Arabbank-Orange-ICR-WO#1-49417204683-CONTR0060020010-L2MPLS
+Vl2675                         up             up       Mashreq-TEST
+Vl2680                         up             up       CID1.19211483-Zajil_Arab Gulf-ICR-1-56903433978-CONTR0062404456-L2MPLS
+Vl2688                         up             up       to IMPZ-POI-New-L2VPN-test
+Vl2689                         up             up       to BSH-POI-New-L2VPN-test
+Vl3008                         up             up       CID-1.32824570-TAWASUL-ArabFinSer-ICR-WO-1-96611600035-CONTR0074229867-L2MPLS
+Vl3075                         up             up       Test-Circuit-Dalkalbab
+Vl3200                         up             up       CID5.36501.00.00.100000-THURAYA-PCCW-ICR-WO-1-118675475692-CONTR0031509279-L2MPLS
+Vl3210                         up             up       CID-1.27627601-ATT-Mastercard-UAE-ICR-WO-1-99778193957-CONTR0074744146-L2MPLS
+Vl3228                         up             up       CID-1.27627601-ATT-ARAB-ICR-WO-1-127143842597-CONTR0080670524-L2MPLS
+Vl3235                         up             up       CID1.27627601-ATT-Masrqbank-ICR-WO#1-146518035315-CONTR0084930686-L2MPL
+Vl3303                         up             up       
+Vl3311                         up             up       Remidation-VLAN
+Vl3432                         up             up       
+Vl3601                         up             up       
+Vl3602                         up             up       Connects to IXOperation_Test
+Vl3793                         admin down     down     
+Vl3911                         up             up       **DMTC-BNG-1**
+Vl3912                         up             up       **DMTC-BNG-1**
+Vl3960                         up             up       CID1.22835293-EmiratesAirlines(backup)-BT-ICR-WO#1-44251998600-CONTR0057575377-L2MPLS
+Vl3973                         up             up       CID1.22835293-EmiratesAirlines(Primary)-BT-ICR-WO#1-44249411752-CONTR0057575234-L2MPLS
+Vl3998                         up             up       BTS Test L2MPLs to DHCC POI
+Vl3999                         up             up       BTS Test L2MPLs to DHCC POI
